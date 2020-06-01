@@ -1,5 +1,5 @@
 # Installation
-The code, analysis, and figures included in this project are contained in a Jupyter notebook. The python dependencies required are provided in requirements.txt.
+The code, analysis, and figures included in this project are contained in a Jupyter notebook (myanalysis) in Command_Files. The python dependencies required are provided in Documents/requirements.txt.
 
 Create Python virtual environment:
 
@@ -16,7 +16,7 @@ Install dependencies:
 # Usage
 The analysis can be performed by running the Jupyter notebook.
 
-Expected output
+# Expected output
 The notebook will generate the following statistical tests:
 * F test
 * Analysis of variance (ANOVA)
