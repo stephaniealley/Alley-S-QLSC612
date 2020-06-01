@@ -1,5 +1,5 @@
 # Installation
-The code, analysis, and figures included in this project are contained in a Jupyter notebook (myanalysis) in Command_Files. The python dependencies required are provided in Documents/requirements.txt.
+The code, analysis, and figures included in this project are contained in a Jupyter notebook (myanalysis) in Command_Files. The python dependencies required are provided in Documents/requirements.txt. The specific Python 3 version used is 3.7.6.
 
 Create Python virtual environment:
 
