@@ -3,7 +3,7 @@ The code, analysis, and figures included in this project are contained in a Jupy
 
 Create Python virtual environment:
 
-`python -m venv /path/to/new/virtual/env`
+`python3 -m venv /path/to/new/virtual/env`
 
 Activate virtual environment:
 
